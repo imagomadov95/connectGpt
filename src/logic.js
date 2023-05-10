@@ -25,3 +25,4 @@ export async function processTextToChat(ctx, content) {
     console.log('Error while proccesing text to gpt', e.message)
   }
 }
+
